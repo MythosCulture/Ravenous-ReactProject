@@ -2,8 +2,9 @@ Simple web app that utilizes the Yelp Fusion API.
 
 # Try on your local machine
 
-1) Download this project and add your Yelp fusion API key to Yelp.js
-2) Make sure you request temporary access to https://cors-anywhere.herokuapp.com/corsdemo
+1) Download this project
+2) Add your Yelp fusion API key to Yelp.js (Found under 'Manage App' here: https://www.yelp.com/developers/v3/manage_app
+3) Make sure you request temporary access to https://cors-anywhere.herokuapp.com/corsdemo
 
 Note: these are temporary solutions for development only
 
