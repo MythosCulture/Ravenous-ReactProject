@@ -6,8 +6,8 @@ import Business from '../Business/Business';
 function BusinessList(props) {
   return (
     <div className="BusinessList">
-      {props.businesses.map((business) => {
-        return <Business business={business}/>
+      {props.businesses.map(business => {
+        return <Business key={business.id} business={business}/>
       })}
     </div>
   );
